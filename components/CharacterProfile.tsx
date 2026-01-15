@@ -1,5 +1,5 @@
 import React from 'react';
-import { User, Heart, Activity, Music, Car, Anchor, Award } from 'lucide-react';
+import { User, Activity, Music, Car, Anchor, Award } from 'lucide-react';
 
 export const CharacterProfile: React.FC = () => {
   return (
